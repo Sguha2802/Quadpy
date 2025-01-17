@@ -4,7 +4,7 @@ This is a package to calculate the time evolution of the two point correlators o
 
 `pip install -i https://test.pypi.org/simple/ quadpy4`
 
-A tutorial for using quadpy is can be found in the following \hyperlink{notebook}{https://nbviewer.org/github/Sguha2802/Quadpy/blob/6a0222dd585a98c8ea74caab7e3a09fce11dc53f/Quadpy-Tutorial.ipynb}:  
+A tutorial for using quadpy is can be found in the following notebook: {https://nbviewer.org/github/Sguha2802/Quadpy/blob/6a0222dd585a98c8ea74caab7e3a09fce11dc53f/Quadpy-Tutorial.ipynb} 
 
 
 
